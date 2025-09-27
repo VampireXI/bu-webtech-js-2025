@@ -1,2 +1,2 @@
-Nickname: gap
-Favorite Food: Hee
+Nickname: Gap
+Favorite Food: Everyting is free
